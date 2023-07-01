@@ -51,7 +51,7 @@ Next step is cost indication and approval from De Kempel.
 
 Assumption was to order 100 kits.
 The cost of just the **material** (components, PCB, packaging and documentation) is estimated at 150 euro.
-See [cost](cost) for an breakdown of that estimation.
+See [cost](cost.md) for an breakdown of that estimation.
 
 
 
