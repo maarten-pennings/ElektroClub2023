@@ -109,11 +109,17 @@ First order 5 PCBs to see if all is ok.
 
 
 
-### main order PCB (9)
+### Main order PCB (9)
 
 When trial run is ok, order 100 pieces
 
 ![main run PCB](cost-pcb-100.png)
+
+
+
+### PCB cost per board
+
+![Cost PCB graph](cost-pcb-graph.png)
 
 (end)
  
