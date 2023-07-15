@@ -13,7 +13,7 @@ My first assumption was to make 100 kits, but lately this is shifting towards 15
 |  2 | LED no-flash green nose              |      100 |        |    2.79 |[🔗](https://www.aliexpress.com/item/1005005071977501.html)|
 |  3 | LED no-flash red logo                |      100 |        |    2.72 |[🔗](https://www.aliexpress.com/item/1005005071977501.html)|
 |  4 | LED no-flash blue logo               |      100 |        |    2.78 |[🔗](https://www.aliexpress.com/item/1005005071977501.html)|
-|  5 | LED flash red/blue logo              |      100 |        |    4.93 |[🔗](https://www.aliexpress.com/item/1005003797732300.html)|
+|  5 | LED flash red/blue logo              | (50+)100 |        |    4.93 |[🔗](https://www.aliexpress.com/item/1005003797732300.html)|
 |  6 | Resistors                            |(100+)600 |        |    4.74 |[🔗](https://www.aliexpress.com/item/1005002091320103.html)|
 |  7 | USB connector female micro B         |      100 |        |    7.22 |[🔗](https://www.aliexpress.com/item/1005003803598713.html)|
 |  8 | Zip-lock backs 8×12 cm               |(100+)100 |        |    4.72 |[🔗](https://www.aliexpress.com/item/1005005297741601.html)|
