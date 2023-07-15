@@ -70,9 +70,9 @@ Questions
  - Do we want some labeling ("FLL De Kempen")? I guess no year.
  - I'm considering having the logo LEDs at the back, 
    and make the PCB transparent for the logo (remove copper) so that the light shines through.
-   How about that idea?
+   See diagram below. How about that idea?
  - I'm considering adding some texture, e.g. the hand being bare copper.
    How about that idea?
 
- 
+![LED mounting](LED-mounting.png)
 (end)

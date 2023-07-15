@@ -1,32 +1,28 @@
 # Cost
 
-This pages gives and overview of the costs
+This pages gives and overview of the costs.
+My first assumption was to make 100 kits, but lately this is shifting towards 150 kits.
 
 
 ## Items
 
-| id | description                          | quantity |estimate|   price |                                                      link |
+|item| description                          | quantity | remark |   price |                                                      link |
 |:--:|:-------------------------------------|---------:|-------:|--------:|:---------------------------------------------------------:|
-|  1a| LED flash white for eyes (clear)     |      200 |        |    9.16 |[🔗](https://www.aliexpress.com/item/1005003630965480.html)|
-|  1b| LED flash white for eyes (yellow)    |      200 |   7.08 |(?) 7.08 |[🔗](https://www.aliexpress.com/item/1005003630965480.html)|
+|  1a| LED flash white for eyes (clear)     |      200 |not used|    9.16 |[🔗](https://www.aliexpress.com/item/1005003630965480.html)|
+|  1b| LED flash white for eyes (yellow)    |(100+)200 |        |   10.81 |[🔗](https://www.aliexpress.com/item/1005003630965480.html)|
 |  2 | LED no-flash green nose              |      100 |        |    2.79 |[🔗](https://www.aliexpress.com/item/1005005071977501.html)|
 |  3 | LED no-flash red logo                |      100 |        |    2.72 |[🔗](https://www.aliexpress.com/item/1005005071977501.html)|
 |  4 | LED no-flash blue logo               |      100 |        |    2.78 |[🔗](https://www.aliexpress.com/item/1005005071977501.html)|
 |  5 | LED flash red/blue logo              |      100 |        |    4.93 |[🔗](https://www.aliexpress.com/item/1005003797732300.html)|
 |  6 | Resistors                            |(100+)600 |        |    4.74 |[🔗](https://www.aliexpress.com/item/1005002091320103.html)|
-|====| Power options - not yet ordered      |==========|========|=========|====                                                       |
-| 7a | dual AAA battery box with batteries  |      100 |  68.10 |         |[🔗](https://www.aliexpress.com/item/1005005052171962.html) [🔗](https://www.aliexpress.com/item/1005005681807680.html)|
-| 7b | 30cm USB cable met standard male A   |      100 |  58.76 |         |[🔗](https://www.aliexpress.com/item/1005001728575384.html)|
-| 7c | USB connector female C               |      100 |   6.70 |         |[🔗](https://www.aliexpress.com/item/1005004403587119.html)|
-| 7d | USB connector female micro B         |      100 |   6.75 |(?) 6.75 |[🔗](https://www.aliexpress.com/item/1005003803598713.html)|
-|====| PCB - not yet ordered                |==========|========|=========|====                                                       |
-|  8 | trial run PCB (2.00+7.00 shipping)   |        5 |   9.00 |(?) 9.00 |
-|  9 | main order PCB (40.00+40.00 shipping)|      100 |  80.00 |(?)80.00 |    
-|====| Miscellaneous - not yet ordered      |==========|========|=========|====                                                       |
-| 10 | Assembly manual (A4 paper)           |      100 |  10.00 |(?)10.00 |
-| 11 | zip lock backs 8×12 cm               |      100 |  10.00 |(?)10.00 |[🔗](https://www.aliexpress.com/item/1005005297741601.html)|
-|    |                                      |          |        |________+|
-|    |                                      |          |        |  149.95 |
+|  7 | USB connector female micro B         |      100 |        |    7.22 |[🔗](https://www.aliexpress.com/item/1005003803598713.html)|
+|  8 | Zip-lock backs 8×12 cm               |(100+)100 |        |    4.72 |[🔗](https://www.aliexpress.com/item/1005005297741601.html)|
+|  9 | Assembly manual (A4 paper)           |      100 |        |(?)10.00 |                                                           |
+| 10 | Trial run 1 PCB (2.00+7.00 shipping) |        5 |        |(?) 9.00 |                                                           |
+| 11 | Trial run 2 PCB (2.00+7.00 shipping) |        5 |        |(?) 9.00 |                                                           |
+| 12 | Main order PCB (40.00+40.00 shipping)|      100 |        |(?)80.00 |                                                           |
+|    |                                      |          |        |________+|                                                           |
+|    |                                      |          |        |  157.87 |                                                           |
 
 
 
@@ -36,7 +32,7 @@ Due to long lead times (Ali Express), low-cost, and the need to know footprints
 before ordering PCBs, I decided to already order some of the components.
 
 
-### LED flash white for eyes (id 1)
+### LED flash white for eyes (item 1)
 
 I forgot there are two eyes per kit so I ordered another 100.
 Two times €4.58 is €9.16.
@@ -45,11 +41,15 @@ Two times €4.58 is €9.16.
 
 ![LED white 100× extra](cost-led-white-100extra.png)
 
-I'm considering buying ones with yellow housing (instead of clear) so that the students do not confuse them with the clear red/blue one.
+I decided to switch to LEDs with yellow housing (instead of clear) so that the students do not confuse them with the clear red/blue one.
+I also deiced to aim at 150 kits, so 300 LEDs.
+
+![LED yellow 300×](cost2-led-yellow-300.png)
 
 
 
-### LED no-flash logo and nose (id 2, 3, 4)
+
+### LED no-flash logo and nose (item 2, 3, 4)
 
 I divided shipping and discount (€5.00 - €0.04) over 3 items, that is €1.65 each.
 
@@ -61,7 +61,7 @@ and blue is €8.29 - €2.70 - €2.72 = €2.78.
 
 
 
-### LED flash red/blue logo (id 5)
+### LED flash red/blue logo (item 5)
 
 With shipping and discount €4.93.
 
@@ -69,7 +69,7 @@ With shipping and discount €4.93.
 
 
 
-### Resistors (id 6)
+### Resistors (item 6)
 
 We have 6 LEDs per kit, so we need 600 resistors. I ordered 100 spare: €4.74.
 
@@ -78,7 +78,7 @@ We have 6 LEDs per kit, so we need 600 resistors. I ordered 100 spare: €4.74.
 
 
 
-### Power supply (id 7)
+### Power supply (item 7)
 
 One of the harder decisions is the kind of power supply.
 
@@ -89,35 +89,40 @@ I found four options, prices below are for 100 kits.
  7c. USB connector female C - €6.70
  7d. USB connector female micro B  - €6.75
 
-![Battery](power-aaa-200.png)
-
-![USB-cable](power-usbcable-100.png)
-
-![USB-C](power-usbc-100.png)
-
-![USB_micro](power-usbmicro-100.png)
+![USB_micro 100](cost2-usbmicro-100.png)
 
 
 
 
-### Trial PCB (8)
+### Zip-lock backs (item 8)
 
-First order 5 PCBs to see if all is ok.
+Zip-lock bags, big enough for PCB, which is estimated at 100×60mm².
+
+![zip-lock bags](cost2-ziplock-200.png)
+
+
+
+
+### Assembly manual (item 9)
+
+Assumption: 1 page A4.
+
+
+
+
+### PCBs (item 10, 11, 12)
+
+First order 5 PCBs to see if all is ok. And maybe a second round.
 
 ![Trial run PCB](cost-pcb-5.png)
 
 
-
-
-### Main order PCB (9)
-
-When trial run is ok, order 100 pieces
+When trial runs are ok, order 100 pieces
 
 ![main run PCB](cost-pcb-100.png)
 
 
-
-### PCB cost per board
+PCB cost per board
 
 ![Cost PCB graph](cost-pcb-graph.png)
 
