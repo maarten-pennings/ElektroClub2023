@@ -9,7 +9,7 @@ Every year, Hogeschool De Kempel in Helmond organizes the First LEGO League (FLL
 Many primary schools join the contests, but there are only two matches at one time, 
 so many students are idling most of the day. Therefore De Kempel organizes side activities.
 
-One of them is organized by the ElektroClub Waalre. We have a soldering kit that the students
+One of the side-activities is organized by the ElektroClub Waalre. We have a soldering kit that the students
 can assemble. After assembling, we test them, and once found (made) working, the students can take them home.
 
 ![LEDs heart ](leds-heart.jpg)
@@ -25,6 +25,7 @@ some students needed 3 hours, non could finish it in one hour.
 
 
 ## Concept
+
 De Kempel suggested to use the contest logo.
 
 ![Contest logo](contest-logo.jpg)
@@ -39,8 +40,7 @@ and even dual or multi-color.
 ![Concept](concept1.png)
 
 This more than halves the soldering points, and we no longer have 3-pin transistors.
-Some complications remains: we still have polarity issues (LEDs) 
-and we have components that look similar (LEDs of different color).
+One complications remains: we still have polarity issues (LEDs).
 
 The concept was approved by the ElektroClub.
 Next step is cost indication and approval from De Kempel.
@@ -49,8 +49,9 @@ Next step is cost indication and approval from De Kempel.
 
 ## Cost estimation
 
-Assumption was to order 100 kits.
-The cost of just the **material** (components, PCB, packaging and documentation) is estimated at 150 euro.
+Assumption is to order 150 kits.
+The cost of just the **material** (components, PCB, packaging and documentation) is estimated at 200 euro,
+leading to about €1.33 per kit.
 See [cost](cost.md) for an breakdown of that estimation.
 
 
@@ -75,4 +76,5 @@ Questions
    How about that idea?
 
 ![LED mounting](LED-mounting.png)
+
 (end)
