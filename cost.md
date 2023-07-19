@@ -22,13 +22,14 @@ My first assumption was to make 100 kits, but lately this is shifting towards 15
 | 11 | Trial run 2 PCB (2.00+7.00 shipping) |        5 |(?) 9.00 |                                                           |
 | 12 | Main order PCB (40.00+40.00 shipping)|      150 |(?)97.56 |                                                           |
 |    |                                      |          |________+|                                                           |
-|    |                                      |          |  195.03 |                                                           |
+|    | Total cost (maps to €1.30 per kit)   |          |  195.03 |                                                           |
 
 
 ## Invoices
 
 Due to long lead times (Ali Express), low-cost, and the need to know footprints
 before ordering PCBs, I decided to already order some of the components.
+Later I ordered the remaining, the third time I switched from 100 to 150 pieces.
 
 
 
@@ -37,12 +38,14 @@ before ordering PCBs, I decided to already order some of the components.
 I forgot there are two eyes per kit so I ordered another 100.
 Two times €4.58 is €9.16.
 
+But then, I decided to switch to LEDs with yellow housing (instead of clear) 
+so that the students do not confuse them with the clear red/blue one.
+So these clear LEDs will not be used...
+
 ![LED white 100×](cost-led-white-100.png)
 
 ![LED white 100× extra](cost-led-white-100extra.png)
 
-I decided to switch to LEDs with yellow housing (instead of clear) so that the students do not confuse them with the clear red/blue one.
-So these clear LEDs will not be used...
 
 
 
@@ -128,7 +131,7 @@ The upgrade to 150 added 4.45 to 7.22 totaling €11.67.
 
 ### Zip-lock backs (item 8)
 
-Zip-lock bags, big enough for PCB, which is estimated at 100×60mm².
+Zip-lock bags, big enough for PCB, which is estimated at 100×60mm². Cost €4.72.
 
 ![zip-lock bags](cost2-ziplock-200.png)
 
