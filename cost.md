@@ -18,11 +18,11 @@ My first assumption was to make 100 kits, but lately this is shifting towards 15
 |  7 | USB connector female micro B         |      150 |   11.67 |[🔗](https://www.aliexpress.com/item/1005003803598713.html)|
 |  8 | Zip-lock backs 8×12 cm               | (50+)150 |    4.72 |[🔗](https://www.aliexpress.com/item/1005005297741601.html)|
 |  9 | Assembly manual (A4 paper)           |      150 |(?)15.00 |                                                           |
-| 10 | Trial run 1 PCB (2.00+7.00 shipping) |        5 |(?) 9.00 |                                                           |
-| 11 | Trial run 2 PCB (2.00+7.00 shipping) |        5 |(?) 9.00 |                                                           |
-| 12 | Main order PCB (40.00+40.00 shipping)|      150 |(?)97.56 |                                                           |
+| 10 | Trial run 1 PCB                      |        5 |(?)11.00 |                                                           |
+| 11 | Trial run 2 PCB                      |        5 |(?)11.00 |                                                           |
+| 12 | Main order PCB                       |      150 |(?)97.56 |                                                           |
 |    |                                      |          |________+|                                                           |
-|    | Total cost (maps to €1.30 per kit)   |          |  195.03 |                                                           |
+|    | Total cost (maps to €1.33 per kit)   |          |  199.03 |                                                           |
 
 
 ## Invoices
