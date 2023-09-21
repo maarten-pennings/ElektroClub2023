@@ -77,4 +77,17 @@ Questions
 
 ![LED mounting](LED-mounting.png)
 
+
+## First trial
+
+We made the first production [run](order1). Specials:
+
+- metal hands and metal head top
+- see through logo at belly
+- top hole to hang
+- two bottom holes to stand (with some sticks?)
+
+
+![top](order1/ECFFL2023-render-top.png) ![bottom](order1/ECFFL2023-render-bottom.png)
+
 (end)
