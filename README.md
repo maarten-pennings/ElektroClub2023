@@ -68,7 +68,7 @@ Questions
  - Do we want to have J1 (extra power facility for eg testing)?
  - Do we want the resistors and power plug at the back of the PCB for better looks? 
    If not other suggestion for location?
- - Do we want some labeling ("FLL De Kempen")? I guess no year.
+ - Do we want some labeling ("FLL De Kempel")? I guess no year.
  - I'm considering having the logo LEDs at the back, 
    and make the PCB transparent for the logo (remove copper) so that the light shines through.
    See diagram below. How about that idea?
@@ -91,6 +91,6 @@ We made the first production [run](order1). Specials:
 ![top](order1/ECFFL2023-render-top.png) ![bottom](order1/ECFFL2023-render-bottom.png)
 
 I also wrote a user manual to have a try-out for the first trial.
-Find the [one-pager](manual/manual.pdd), and the required sources in the directory [manual](manual).
+Find the [one-pager](manual/manual.pdf), and the required sources in the directory [manual](manual).
 
 (end)
