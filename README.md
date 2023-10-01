@@ -90,4 +90,7 @@ We made the first production [run](order1). Specials:
 
 ![top](order1/ECFFL2023-render-top.png) ![bottom](order1/ECFFL2023-render-bottom.png)
 
+I also wrote a user manual to have a try-out for the first trial.
+Find the [one-pager](manual/manual.pdd), and the required sources in the directory [manual](manual).
+
 (end)
