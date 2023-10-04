@@ -2,6 +2,8 @@
 
 Create a new _solder kit_ for a side-activity during the _First LEGO League_ (FLL) contests organized by _De Kempel_.
 
+There is a [video](https://youtu.be/UIuk7rWQUKo) of the end-result.
+
 
 ## Introduction
 
