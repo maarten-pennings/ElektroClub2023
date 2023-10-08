@@ -1,28 +1,32 @@
 # Cost
 
 This pages gives and overview of the costs.
-My first assumption was to make 100 kits, but lately this is shifting towards 150 kits.
+My first assumption was to make 100 kits, but latee this shifted to 150 kits.
+
+After the first two trials, I decided to upgrade components to 200.
+The reason was that most components were already at 200.
 
 
 ## Items
 
-|item| description                          | quantity |   price |                                                      link |
-|:--:|:-------------------------------------|---------:|--------:|:---------------------------------------------------------:|
-|  1a| LED flash white for eyes (clear)     | (200+) 0 |    9.16 |[🔗](https://www.aliexpress.com/item/1005003630965480.html)|
-|  1b| LED flash yellow for eyes            |    2×150 |   10.81 |[🔗](https://www.aliexpress.com/item/1005003630965480.html)|
-|  2 | LED no-flash green nose              | (50+)150 |    5.51 |[🔗](https://www.aliexpress.com/item/1005005071977501.html)|
-|  3 | LED no-flash red logo                | (50+)150 |    5.37 |[🔗](https://www.aliexpress.com/item/1005005071977501.html)|
-|  4 | LED no-flash blue logo               | (50+)150 |    5.49 |[🔗](https://www.aliexpress.com/item/1005005071977501.html)|
-|  5 | LED flash red/blue logo              |      150 |    4.93 |[🔗](https://www.aliexpress.com/item/1005003797732300.html)|
-|  6 | Resistors                            |    6×150 |    6.81 |[🔗](https://www.aliexpress.com/item/1005002091320103.html)|
-|  7 | USB connector female micro B         |      150 |   11.67 |[🔗](https://www.aliexpress.com/item/1005003803598713.html)|
-|  8 | Zip-lock backs 8×12 cm               | (50+)150 |    4.72 |[🔗](https://www.aliexpress.com/item/1005005297741601.html)|
-|  9 | Assembly manual (A4 paper)           |      150 |(?)15.00 |                                                           |
-| 10 | Trial run 1 PCB                      |       10 |    7.12 |                                                           |
-| 11 | Trial run 2 PCB                      |        5 |(?)11.00 |                                                           |
-| 12 | Main order PCB                       |      150 |(?)97.56 |                                                           |
-|    |                                      |          |________+|                                                           |
-|    | Total cost (maps to €1.33 per kit)   |          |  195.16 |                                                           |
+|item| description                          | quantity |    price |                                                      link |
+|:--:|:-------------------------------------|---------:|---------:|:---------------------------------------------------------:|
+|  1a| LED flash white for eyes (clear)     | (200+) 0 |     9.16 |[🔗](https://www.aliexpress.com/item/1005003630965480.html)|
+|  1b| LED flash yellow for eyes            |    2×200 |    16.83 |[🔗](https://www.aliexpress.com/item/1005003630965480.html)|
+|  2 | LED no-flash green nose              |      200 |     5.51 |[🔗](https://www.aliexpress.com/item/1005005071977501.html)|
+|  3 | LED no-flash red logo                |      200 |     5.37 |[🔗](https://www.aliexpress.com/item/1005005071977501.html)|
+|  4 | LED no-flash blue logo               |      200 |     5.49 |[🔗](https://www.aliexpress.com/item/1005005071977501.html)|
+|  5 | LED flash red/blue logo              |      200 |     7.30 |[🔗](https://www.aliexpress.com/item/1005003797732300.html)|
+|  6 | Resistors                            |    6×200 |     9.56 |[🔗](https://www.aliexpress.com/item/1005002091320103.html)|
+|  7 | USB connector female micro B         |      200 |    16.26 |[🔗](https://www.aliexpress.com/item/1005003803598713.html)|
+|  8 | Zip-lock backs 8×12 cm               |      200 |     4.72 |[🔗](https://www.aliexpress.com/item/1005005297741601.html)|
+|  9 | Assembly manual                      |       10 |     0.00 |                                                           |
+| 10 | Trial run 1 PCB                      |       10 |     7.17 |                                                           |
+| 11 | Trial run 2 PCB                      |        5 |     7.43 |                                                           |
+| 12 | Main order PCB                       |      200 |(?)123.83 |                                                           |
+|    |                                      |          |_________+|                                                           |
+|    | Total cost (maps to €1.09 per kit)   |          |   218.63 |                                                           |
+
 
 
 ## Invoices
@@ -30,10 +34,11 @@ My first assumption was to make 100 kits, but lately this is shifting towards 15
 Due to long lead times (Ali Express), low-cost, and the need to know footprints
 before ordering PCBs, I decided to already order some of the components.
 Later I ordered the remaining, the third time I switched from 100 to 150 pieces.
+The fourth order upgraded to 200 pieces.
 
 
 
-### LED flash white for eyes (item 1a)
+### LED flash white for eyes (item 1a) - NOT USED
 
 I forgot there are two eyes per kit so I ordered another 100.
 Two times €4.58 is €9.16.
@@ -56,6 +61,13 @@ I decided to switch to LEDs with yellow housing (instead of clear) so that the s
 I also decided to aim at 150 kits, so 300 LEDs.
 
 ![LED yellow 300×](cost2-led-yellow-300.png)
+
+I upgraded to 200 kits, so an extra 100 LEDs.
+
+![LED yellow 100×](cost4-led-yellow-100.png)
+
+With that, yellow LED is €10.81+€6.02=€16.83.
+
 
 
 
@@ -91,6 +103,13 @@ With shipping and discount €4.93.
 
 ![LED red/blue flash 150×](cost-led-redblue-150.png)
 
+I upgraded to 200 kits, so an extra 50 LEDs.
+
+![LED red/blue flash 50×](cost4-led-redblue-50.png)
+
+With that, red/blue LED is €4.93+€2.37=€7.30.
+
+
 
 
 
@@ -101,9 +120,16 @@ We have 6 LEDs per kit, so we need 600 resistors. I ordered 100 spare: €4.74.
 ![resistors 7×100](cost-R220-700.png)
 
 
-Upgraded to 150 items; that means 6×150=900, we had 700 so I ordered another 200 for €2.07, bringing the total to €6.81.
+Upgraded to 150 items; that means 6×150=900, we had 700 so I ordered another 200 for €2.07.
 
 ![resistors 2×100](cost3-R220-200.png)
+
+
+I upgraded to 200 kits, so an extra 300 resistors.
+
+![resistors 3×100](cost4-R220-300.png)
+
+With that, resistors is €4.74+€2.07+€2.75=€9.56.
 
 
 
@@ -127,6 +153,14 @@ The upgrade to 150 added 4.45 to 7.22 totaling €11.67.
 ![USB_micro 100](cost3-usbmicro-50.png)
 
 
+I upgraded to 200 kits, so an extra 50 connectors.
+
+![USB_micro 50](cost4-usbmicro-50.png)
+
+With that, resistors is €7.22+€4.45+€4.59=€16.26.
+
+
+
 
 
 ### Zip-lock backs (item 8)
@@ -140,21 +174,23 @@ Zip-lock bags, big enough for PCB, which is estimated at 100×60mm². Cost €4.
 
 ### Assembly manual (item 9)
 
-Assumption: 150 times 1 page A4 a 10 cent, makes €15.00.
-
-![Trial run 1 PCB](order1/payment.png)
-
+Assumption: De Kempel will make 10 laminated A4 handouts that will be reused.
 
 
 
 ### Trial run 1 PCB (item 10)
 
+![Trial run 1 PCB](../order1/invoice.png)
 
-### PCBs (item 11, 12)
 
-Trial order 5 PCBs to see if all is ok. And maybe a second round.
+### Trial run 2 PCB (item 11)
 
-![Trial run PCB](cost-pcb-5.png)
+![Trial run 1 PCB](../order2/invoice.png)
+
+
+
+
+### PCBs (item 12)
 
 
 When trial runs are ok, order 100 pieces

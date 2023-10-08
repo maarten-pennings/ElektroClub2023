@@ -52,8 +52,8 @@ Next step is cost indication and approval from De Kempel.
 ## Cost estimation
 
 Assumption is to order 150 kits.
-The cost of just the **material** (components, PCB, packaging and documentation) is estimated at 200 euro,
-leading to about €1.33 per kit.
+The cost of just the **material** (components, PCB, packaging and documentation) is estimated a bit over 200 euro,
+leading to about €1.10 per kit.
 See [cost](cost/cost.md) for an breakdown of that estimation.
 
 
@@ -92,17 +92,22 @@ We made the first production [test](order1). Specials:
 
 ![top](order1/ECFFL2023-render.png)
 
-I also wrote a user manual to have a try-out for the first trial.
-Find the [one-pager](manual/manual.pdf), and the required sources in the directory [manual](manual).
-
 
 ## Order 2
 
 Changes for the second production [test](order2):
 
-- back-lighting also for eyes and nose
-- bending tool near feet
-- more nerdy artwork at the back
-- hints about holes
+- back-lighting
+- LED bending tool near feet
+- more nerdy artwork on the back
+- various hints about holes on the back
+
+> This time I ordered 1.0mm PCB thickness instead of 1.6mm, but still PCB color black.
+
+![top](order2/ECFFL2023-v2-render.png)
+
+I also wrote a user manual to have a try-out for the first trial.
+Find the [one-pager](manual/manual.pdf), and the required sources in the directory [manual](manual).
+
 
 (end)
