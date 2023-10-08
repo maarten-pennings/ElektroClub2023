@@ -54,13 +54,13 @@ Next step is cost indication and approval from De Kempel.
 Assumption is to order 150 kits.
 The cost of just the **material** (components, PCB, packaging and documentation) is estimated at 200 euro,
 leading to about €1.33 per kit.
-See [cost](cost.md) for an breakdown of that estimation.
+See [cost](cost) directory for an breakdown of that estimation.
 
 
 
 ## Second concept
 
-I made a more detailed concept (with real [gerber](ECFLL2023pcb.zip)).
+I made a more detailed concept (with real [gerber](ECFLL2023gerber.zip)).
 
 ![Concept2](concept2.png)
 
