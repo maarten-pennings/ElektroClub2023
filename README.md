@@ -60,7 +60,7 @@ See [cost](cost) directory for an breakdown of that estimation.
 
 ## Second concept
 
-I made a more detailed concept (with real [gerber](ECFLL2023gerber.zip)).
+I made a more detailed concept (with real [gerber](ECFLL2023gerber-concept2.zip)).
 
 ![Concept2](concept2.png)
 
