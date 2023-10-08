@@ -26,7 +26,7 @@ However, De Kempel wanted something more on-brand. Besides, the heart takes too 
 some students needed 3 hours, non could finish it in one hour.
 
 
-## Concept
+## Concept 1
 
 De Kempel suggested to use the contest logo.
 
@@ -58,7 +58,7 @@ See [cost](cost) directory for an breakdown of that estimation.
 
 
 
-## Second concept
+## Concept 2
 
 I made a more detailed concept (with real [gerber](ECFLL2023gerber-concept2.zip)).
 
@@ -80,7 +80,7 @@ Questions
 ![LED mounting](LED-mounting.png)
 
 
-## First trial
+## Version 3 (order 1)
 
 We made the first production [run](order1). Specials:
 
@@ -90,9 +90,17 @@ We made the first production [run](order1). Specials:
 - two bottom holes to stand (with some sticks?)
 
 
-![top](order1/ECFFL2023-render-top.png) ![bottom](order1/ECFFL2023-render-bottom.png)
+![top](order1/ECFFL2023-render.png)
 
 I also wrote a user manual to have a try-out for the first trial.
 Find the [one-pager](manual/manual.pdf), and the required sources in the directory [manual](manual).
+
+
+## Version 4 (order 2)
+
+Changes for the second production [run](order2):
+
+- back-lighting also for eyes and nose
+- more nerdy artwork at the back
 
 (end)
