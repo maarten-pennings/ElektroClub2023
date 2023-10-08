@@ -54,7 +54,7 @@ Next step is cost indication and approval from De Kempel.
 Assumption is to order 150 kits.
 The cost of just the **material** (components, PCB, packaging and documentation) is estimated at 200 euro,
 leading to about €1.33 per kit.
-See [cost](cost) directory for an breakdown of that estimation.
+See [cost](cost/cost.md) for an breakdown of that estimation.
 
 
 
@@ -80,9 +80,9 @@ Questions
 ![LED mounting](LED-mounting.png)
 
 
-## Version 3 (order 1)
+## Order 1
 
-We made the first production [run](order1). Specials:
+We made the first production [test](order1). Specials:
 
 - metal hands and metal head top
 - see through logo at belly
@@ -96,11 +96,13 @@ I also wrote a user manual to have a try-out for the first trial.
 Find the [one-pager](manual/manual.pdf), and the required sources in the directory [manual](manual).
 
 
-## Version 4 (order 2)
+## Order 2
 
-Changes for the second production [run](order2):
+Changes for the second production [test](order2):
 
 - back-lighting also for eyes and nose
+- bending tool near feet
 - more nerdy artwork at the back
+- hints about holes
 
 (end)
