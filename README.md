@@ -2,7 +2,6 @@
 
 Create a new _solder kit_ for a side-activity during the _First LEGO League_ (FLL) contests organized by _De Kempel_.
 
-There is a [video](https://youtu.be/UIuk7rWQUKo) of the end-result.
 
 
 ## Introduction
@@ -92,6 +91,8 @@ We made the first production [test](order1). Specials:
 
 ![top](order1/ECFFL2023-render.png)
 
+Here is the [video](https://youtu.be/UIuk7rWQUKo).
+
 
 ## Order 2
 
@@ -109,5 +110,6 @@ Changes for the second production [test](order2):
 I also wrote a user manual to have a try-out for the first trial.
 Find the [one-pager](manual/manual.pdf), and the required sources in the directory [manual](manual).
 
+Here is the [video](https://www.youtube.com/watch?v=cTZstXjNcAo).
 
 (end)
