@@ -1,10 +1,7 @@
 # Cost
 
 This pages gives and overview of the costs.
-My first assumption was to make 100 kits, but latee this shifted to 150 kits.
-
-After the first two trials, I decided to upgrade components to 200.
-The reason was that most components were already at 200.
+My first assumption was to make 100 kits, later 150 and finally this shifted to 200 kits.
 
 
 ## Items
@@ -20,12 +17,11 @@ The reason was that most components were already at 200.
 |  6 | Resistors                            |    6×200 |     9.56 |[🔗](https://www.aliexpress.com/item/1005002091320103.html)|
 |  7 | USB connector female micro B         |      200 |    16.26 |[🔗](https://www.aliexpress.com/item/1005003803598713.html)|
 |  8 | Zip-lock backs 8×12 cm               |      200 |     4.72 |[🔗](https://www.aliexpress.com/item/1005005297741601.html)|
-|  9 | Assembly manual                      |       10 |     0.00 |                                                           |
-| 10 | Trial run 1 PCB                      |       10 |     7.17 |                                                           |
-| 11 | Trial run 2 PCB                      |        5 |     7.43 |                                                           |
-| 12 | Main order PCB                       |      200 |(?)123.83 |                                                           |
+|  9 | Trial run 1 PCB                      |       10 |     7.17 |                                                           |
+| 10 | Trial run 2 PCB                      |       10 |     7.43 |                                                           |
+| 11 | Main order PCB                       |      200 |   107.86 |                                                           |
 |    |                                      |          |_________+|                                                           |
-|    | Total cost (maps to €1.09 per kit)   |          |   218.63 |                                                           |
+|    | Total cost (maps to €1.01 per kit)   |          |   202.66 |                                                           |
 
 
 
@@ -35,6 +31,8 @@ Due to long lead times (Ali Express), low-cost, and the need to know footprints
 before ordering PCBs, I decided to already order some of the components.
 Later I ordered the remaining, the third time I switched from 100 to 150 pieces.
 The fourth order upgraded to 200 pieces.
+
+
 
 
 
@@ -172,35 +170,32 @@ Zip-lock bags, big enough for PCB, which is estimated at 100×60mm². Cost €4.
 
 
 
-### Assembly manual (item 9)
 
-Assumption: De Kempel will make 10 laminated A4 handouts that will be reused.
-
-
-
-### Trial run 1 PCB (item 10)
+### Trial run 1 PCB (item 9)
 
 ![Trial run 1 PCB](../order1/invoice.png)
 
 
-### Trial run 2 PCB (item 11)
-
-![Trial run 1 PCB](../order2/invoice.png)
 
 
+### Trial run 2 PCB (item 10)
+
+![Trial run 2 PCB](../order2/invoice.png)
 
 
-### PCBs (item 12)
 
 
-When trial runs are ok, order 100 pieces
-
-![main run PCB](cost-pcb-100.png)
+### PCBs (item 10)
 
 
-PCB cost per board
+PCB cost per board is rather linear.
 
 ![Cost PCB graph](cost-pcb-graph.png)
+
+Finally we ordered the 200 boards.
+We picked 1.0mm thick instead of 1.6mm and that saved quite a lot in shipping.
+
+![Main run 3 PCB](../order3/invoice.png)
 
 (end)
  

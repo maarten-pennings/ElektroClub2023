@@ -50,9 +50,9 @@ Next step is cost indication and approval from De Kempel.
 
 ## Cost estimation
 
-Assumption is to order 150 kits.
+Assumption is to order 200 kits.
 The cost of just the **material** (components, PCB, packaging and documentation) is estimated a bit over 200 euro,
-leading to about €1.10 per kit.
+leading to about €1.01 per kit.
 See [cost](cost/cost.md) for an breakdown of that estimation.
 
 
@@ -79,7 +79,7 @@ Questions
 ![LED mounting](LED-mounting.png)
 
 
-## Order 1
+## Order 1 (test)
 
 We made the first production [test](order1). Specials:
 
@@ -94,7 +94,7 @@ We made the first production [test](order1). Specials:
 Here is the [video](https://youtu.be/UIuk7rWQUKo).
 
 
-## Order 2
+## Order 2 (test)
 
 Changes for the second production [test](order2):
 
@@ -113,7 +113,7 @@ Find the [one-pager](manual/manual.pdf), and the required sources in the directo
 Here is the [video](https://www.youtube.com/watch?v=cTZstXjNcAo).
 
 
-## Order 3
+## Order 3 (main)
 
 Changes for the third production [main](order3):
 
