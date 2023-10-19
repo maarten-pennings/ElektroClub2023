@@ -173,6 +173,12 @@ Zip-lock bags, big enough for PCB, which is estimated at 100×60mm². Cost €4.
 
 ### Trial run 1 PCB (item 9)
 
+PCB cost per board is rather linear.
+
+![Cost PCB graph](cost-pcb-graph.png)
+
+First test run is small quantity.
+
 ![Trial run 1 PCB](../order1/invoice.png)
 
 
@@ -180,17 +186,14 @@ Zip-lock bags, big enough for PCB, which is estimated at 100×60mm². Cost €4.
 
 ### Trial run 2 PCB (item 10)
 
+Second test run is also a small quantity.
+
 ![Trial run 2 PCB](../order2/invoice.png)
 
 
 
 
-### PCBs (item 10)
-
-
-PCB cost per board is rather linear.
-
-![Cost PCB graph](cost-pcb-graph.png)
+### PCBs (item 11)
 
 Finally we ordered the 200 boards.
 We picked 1.0mm thick instead of 1.6mm and that saved quite a lot in shipping.

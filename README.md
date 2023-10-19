@@ -107,9 +107,6 @@ Changes for the second production [test](order2):
 
 ![render order 2](order2/ECFFL2023-v2-render.png)
 
-I also wrote a user manual to have a try-out for the first trial.
-Find the [one-pager](manual/manual.pdf), and the required sources in the directory [manual](manual).
-
 Here is the [video](https://www.youtube.com/watch?v=cTZstXjNcAo).
 
 
@@ -125,5 +122,7 @@ Changes for the third production [main](order3):
 > This time I ordered 1.0mm PCB thickness, PCB color black, and check mark the JLCPCB serial number placement.
 
 ![render order 3](order3/ECFFL2023-v3-render.png)
+
+I also wrote a user manual. Find the [one-pager](manual/manual.pdf), and the required sources in the directory [manual](manual).
 
 (end)
