@@ -89,7 +89,7 @@ We made the first production [test](order1). Specials:
 - two bottom holes to stand (with some sticks?)
 
 
-![top](order1/ECFFL2023-render.png)
+![render order 1](order1/ECFFL2023-render.png)
 
 Here is the [video](https://youtu.be/UIuk7rWQUKo).
 
@@ -105,11 +105,25 @@ Changes for the second production [test](order2):
 
 > This time I ordered 1.0mm PCB thickness instead of 1.6mm, but still PCB color black.
 
-![top](order2/ECFFL2023-v2-render.png)
+![render order 2](order2/ECFFL2023-v2-render.png)
 
 I also wrote a user manual to have a try-out for the first trial.
 Find the [one-pager](manual/manual.pdf), and the required sources in the directory [manual](manual).
 
 Here is the [video](https://www.youtube.com/watch?v=cTZstXjNcAo).
+
+
+## Order 3
+
+Changes for the third production [main](order3):
+
+- Resistor bending tool near feet added
+- Added box for name
+- Added labels showing which side to bend the LEDs
+- Made LED bending tool slits longer and more narrow
+
+> This time I ordered 1.0mm PCB thickness, PCB color black, and check mark the JLCPCB serial number placement.
+
+![render order 3](order3/ECFFL2023-v3-render.png)
 
 (end)
