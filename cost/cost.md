@@ -39,16 +39,16 @@ The fourth order upgraded to 200 pieces.
 ### LED flash white for eyes (item 1a) - NOT USED
 
 I forgot there are two eyes per kit so I ordered another 100.
-Two times €4.58 is €9.16.
-
-But then, I decided to switch to LEDs with yellow housing (instead of clear) 
-so that the students do not confuse them with the clear red/blue one.
-So these clear LEDs will not be used...
 
 ![LED white 100×](cost-led-white-100.png)
 
 ![LED white 100× extra](cost-led-white-100extra.png)
 
+But then, I decided to switch to LEDs with yellow housing (instead of clear) 
+so that the students do not confuse them with the clear red/blue one.
+So these clear LEDs will not be used...
+
+Two times €4.58 is €9.16 (200 yellow flashing, white house, not used).
 
 
 
@@ -64,7 +64,7 @@ I upgraded to 200 kits, so an extra 100 LEDs.
 
 ![LED yellow 100×](cost4-led-yellow-100.png)
 
-With that, yellow LED is €10.81+€6.02=€16.83.
+With that, 2×200 yellow LED is €10.81+€6.02=€16.83.
 
 
 
@@ -81,7 +81,7 @@ and blue is €8.29 - €2.70 - €2.72 = €2.78.
 
 
 
-Upgraded to 150 items. They got cheaper.
+Upgraded to 150 items (actually 200). They got cheaper.
 I divided shipping and discount (€4.87 - €0.04) over 3 items, that is €1.61 each.
 Then green is €1.11 + €1.61 = €2.72, red is €1.04 + €1.61 = €2.65, 
 and blue is €8.08 - €2.72 - €2.65 = €2.71.
@@ -90,7 +90,11 @@ and blue is €8.08 - €2.72 - €2.65 = €2.71.
 ![LED no-flash 3×100](cost3-led-red-100-blue-100-green-100.png)
 
 
-With that, green is €2.79+€2.72=€5.51, red is €2.72+€2.65=€5.37, and blue is €2.78+€2.71=€5.49.
+With that, item (2) 200 green is €2.79+€2.72=€5.51.
+
+Item (3) 200 red is €2.72+€2.65=€5.37.
+
+Item(4) 200 blue is €2.78+€2.71=€5.49.
 
 
 
@@ -105,7 +109,7 @@ I upgraded to 200 kits, so an extra 50 LEDs.
 
 ![LED red/blue flash 50×](cost4-led-redblue-50.png)
 
-With that, red/blue LED is €4.93+€2.37=€7.30.
+With that, 200 red/blue (transparant case) LED is €4.93+€2.37=€7.30.
 
 
 
@@ -127,7 +131,7 @@ I upgraded to 200 kits, so an extra 300 resistors.
 
 ![resistors 3×100](cost4-R220-300.png)
 
-With that, resistors is €4.74+€2.07+€2.75=€9.56.
+With that, 6×200 resistors is €4.74+€2.07+€2.75=€9.56.
 
 
 
@@ -155,7 +159,7 @@ I upgraded to 200 kits, so an extra 50 connectors.
 
 ![USB_micro 50](cost4-usbmicro-50.png)
 
-With that, resistors is €7.22+€4.45+€4.59=€16.26.
+With that, 200 connectors is €7.22+€4.45+€4.59=€16.26.
 
 
 
@@ -163,10 +167,12 @@ With that, resistors is €7.22+€4.45+€4.59=€16.26.
 
 ### Zip-lock backs (item 8)
 
-Zip-lock bags, big enough for PCB, which is estimated at 100×60mm². Cost €4.72.
+Zip-lock bags, big enough for PCB, which is estimated at 100×60mm². 
 
 ![zip-lock bags](cost2-ziplock-200.png)
 
+
+Cost for 200 bags €4.72.
 
 
 
@@ -182,6 +188,9 @@ First test run is small quantity.
 ![Trial run 1 PCB](../order1/invoice.png)
 
 
+Cost for trial run 1 (10 PCBs) is €7.17.
+
+
 
 
 ### Trial run 2 PCB (item 10)
@@ -189,6 +198,8 @@ First test run is small quantity.
 Second test run is also a small quantity.
 
 ![Trial run 2 PCB](../order2/invoice.png)
+
+Cost for rial run 2 (10 PCBs) is €7.43.
 
 
 
@@ -199,6 +210,9 @@ Finally we ordered the 200 boards.
 We picked 1.0mm thick instead of 1.6mm and that saved quite a lot in shipping.
 
 ![Main run 3 PCB](../order3/invoice.png)
+
+Cost for main order (200 PCBs) is €107.86.
+
 
 (end)
  
