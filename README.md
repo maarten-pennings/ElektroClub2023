@@ -81,7 +81,7 @@ Questions
 
 ## Order 1 (test)
 
-We made the first production [test](order1). Specials:
+We made the first production [test](order1). Made with [EasyEDA](https://easyeda.com) and produced by [JLCPCB](https://jlcpcb.com/DMP). Specials:
 
 - metal hands and metal head top
 - see through logo at belly
@@ -96,7 +96,7 @@ Here is the [video](https://youtu.be/UIuk7rWQUKo).
 
 ## Order 2 (test)
 
-Changes for the second production [test](order2):
+Second test was again made with [EasyEDA](https://easyeda.com) and produced by [JLCPCB](https://jlcpcb.com/DMP). Changes for the second production [test](order2):
 
 - back-lighting
 - LED bending tool near feet
@@ -112,7 +112,7 @@ Here is the [video](https://www.youtube.com/watch?v=cTZstXjNcAo).
 
 ## Order 3 (main)
 
-Changes for the third production [main](order3):
+Also the third production was made with [EasyEDA](https://easyeda.com) and produced by [JLCPCB](https://jlcpcb.com/DMP). Changes for the third (and final) production [main](order3):
 
 - Resistor bending tool near feet added
 - Added box for name
