@@ -16,7 +16,7 @@ My first assumption was to make 100 kits, later 150 and finally this shifted to 
 |  5 | LED flash red/blue logo              |      200 |     7.30 |[🔗](https://www.aliexpress.com/item/1005003797732300.html)|
 |  6 | Resistors                            |    6×200 |     9.56 |[🔗](https://www.aliexpress.com/item/1005002091320103.html)|
 |  7 | USB connector female micro B         |      200 |    16.26 |[🔗](https://www.aliexpress.com/item/1005003803598713.html)|
-|  8 | Zip-lock backs 8×12 cm               |      200 |     4.72 |[🔗](https://www.aliexpress.com/item/1005005297741601.html)|
+|  8 | Zip-lock bags 8×12 cm                |      200 |     4.72 |[🔗](https://www.aliexpress.com/item/1005005297741601.html)|
 |  9 | Trial run 1 PCB                      |       10 |     7.17 |                                                           |
 | 10 | Trial run 2 PCB                      |       10 |     7.43 |                                                           |
 | 11 | Main order PCB                       |      200 |   107.86 |                                                           |
@@ -165,7 +165,7 @@ With that, 200 connectors is €7.22+€4.45+€4.59=€16.26.
 
 
 
-### Zip-lock backs (item 8)
+### Zip-lock bags (item 8)
 
 Zip-lock bags, big enough for PCB, which is estimated at 100×60mm². 
 

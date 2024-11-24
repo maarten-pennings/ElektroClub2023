@@ -24,27 +24,27 @@ Some decisions:
 - eyes blinking blue;
 - mouth permanent yellow (orange);
 - logo permanent red and permanent green and blinking red/green in the middle;
-- switch the USB-C [connector](USBC-2Pin-Horizontal-Female__LCSC-C2919656.png);
-- make all LEDs bend the same way.
+- switch from micro B to USB-C [connector](USBC-2Pin-Horizontal-Female__LCSC-C2919656.png);
+- make all LEDs bend the same way (easier for the students)
 
 
 ## Design
 
 First step is to make the schematics. I did that in [EasyEda](https://easyeda.com/), 
 a Chinese in-browser design tool. The [easyeda source](ElektroClub2025FLL_V2_schem.json) 
-as well as the [pdf](ElektroClub2025FLL_V2_schem.pdf) is in this repository.
+as well as the [pdf](ElektroClub2025FLL_V2_schem.pdf) are in this repository.
 
 Next step is to make a pcb layout. Also done with EasyEDA.
 I used the artistic drawings `brick*.png` derived from the gimp source [brick.xcf](brick.xcf).
 The [easyeda source](ElektroClub2025FLL_V2_pcb.json) 
-as well as the [pdf](ElektroClub2025FLL_V2_pcb.pdf) is in this repository.
+as well as the [pdf](ElektroClub2025FLL_V2_pcb.pdf) are in this repository.
 
 In the end, the [gerber](ElektroClub2025FLL_V2_gerber.zip) is used for PCB manufacturing.
 
 ![render](render-front-back-side.png)
 
 
-## PCB manufacturing trial run order
+## PCB manufacturing trial run (5 pieces)
 
 I sent the gerber to [jlcpcb](https://jlcpcb.com/).
 I did a trial run
@@ -54,6 +54,11 @@ I did a trial run
 - JLCJLCJLCJLC marks where JlcPcb should put the order number
 
 See [detail](jlcpcb5.png) of my order (€ 11.34).
+
+
+## PCB manufacturing main run (200 pieces)
+
+To do
 
 
 ## Components order
@@ -69,11 +74,11 @@ Until now this has been spent.
 |  5 | LED blinking red/green logo          |      200 |     5.68 |[🔗](https://www.aliexpress.com/item/1005006514757908.html)|
 |  6 | Resistors 220 ohm                    |    6×200 |    15.36 |[🔗](https://www.aliexpress.com/item/1005002091320103.html)|
 |  7 | USB connector female C               |      200 |    21.50 |[🔗](https://www.aliexpress.com/item/1005004403587119.html)|
-|  8 | Zip-lock backs B-8×12 cm             |      200 |     5.16 |[🔗](https://www.aliexpress.com/item/1005005297741601.html)|
+|  8 | Zip-lock bags B-8×12 cm              |      200 |     5.16 |[🔗](https://www.aliexpress.com/item/1005005297741601.html)|
 |  9 | Trial run 5 PCBs                     |        5 |    11.34 |[🔗](jlcpcb5.png)                                          |
 | 10 | Main run 200 PCBs                    |          |     ?.?? |                                                           |
 |    |                                      |          |_________+|                                                           |
-|    | Total cost (maps to €1.01 per kit)   |          |    84.93 |                                                           |
+|    | Total cost (maps to €?.?? per kit)   |          |    84.93 |                                                           |
 
 
 (end)
